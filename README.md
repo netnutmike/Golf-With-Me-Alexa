@@ -1,3 +1,5 @@
+I am using this sample code for the base for building a golf-withme app for amazon alexa.
+
 Welcome to the AWS CodeStar sample Alexa Skill
 ==============================================
 
